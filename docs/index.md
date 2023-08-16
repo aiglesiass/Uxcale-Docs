@@ -1,6 +1,6 @@
 ---
 layout: page
-title: prueba
+title: Home
 permalink: /
 nav_order: 1
 description: The API Scoring Suite is a compound of tools that make your journey of designing an API much more easy.
